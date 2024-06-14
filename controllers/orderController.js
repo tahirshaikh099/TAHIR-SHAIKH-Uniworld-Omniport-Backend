@@ -1,4 +1,3 @@
-// const { useActionData } = require('react-router');
 // const db = require('../db/connect');
 // const calculateTotal = require('../utils/calculateTotal');
 
@@ -106,8 +105,6 @@
 // module.exports = { placeOrder };
 
 
-
-const { useActionData } = require('react-router');
 const db = require('../db/connect');
 const calculateTotal = require('../utils/calculateTotal');
 
